@@ -1,7 +1,7 @@
 # HashingProblems
 
 ### [Contest Link](https://codeforces.com/contestInvitation/1b66e32e18c539d24ac6843ec23afa68e9a2ecf8) - Please visit this link to view Problem Statements
-### The problems were prepared on Polygon by me. They are not picked from previous contests.
+### The problems were prepared on CodeForces Polygon by me. They are not picked from previous contests.
 ### OverView :
 - The Problems contains the Codeforces Polygon Latex Documentation
 - Built using Checkers, Generators and Two Solution files(Java and C++) on Polygon Platform
