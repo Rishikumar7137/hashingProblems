@@ -8,6 +8,6 @@
 - Properly Stressed and Checked test cases using Invocations
 
 ### [Problem A](https://codeforces.com/gym/530708/problem/A) 
-- [Solution C++](https://github.com/Rishikumar7137/hashingProblems/A/solutions/)
-- [GeneratorFiles](https://github.com/Rishikumar7137/hashingProblems/A/generators/)
+- [Solution C++](https://github.com/Rishikumar7137/hashingProblems/tree/main/A/Solutions))
+- [GeneratorFiles](https://github.com/Rishikumar7137/hashingProblems/tree/main/A/Generators/)
 ### [Problem B](#) Being Prepared
